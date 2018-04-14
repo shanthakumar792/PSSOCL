@@ -1,0 +1,20 @@
+aeroplane,airplane
+bicycle,bicycle
+bird,flying bird
+bus,bus
+car,car (sedan)
+cat,cat
+
+cow,cow
+
+dog,dog
+
+horse,horse
+
+person,person walking
+
+pottedplant,potted plant
+
+sheep,sheep
+
+train,train

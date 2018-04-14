@@ -1,0 +1,17 @@
+airplane
+bicycle
+flying bird
+pigeon
+bottle
+bus
+car (sedan)
+cat
+cow
+dog
+horse
+person sitting
+person walking
+potted plant
+sheep
+train
+tv

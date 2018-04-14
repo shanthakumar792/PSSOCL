@@ -1,0 +1,6 @@
+lbleg,leg
+lfleg,leg
+rbleg,leg
+rfleg,leg
+lleg,leg
+rleg,leg
